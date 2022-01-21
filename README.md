@@ -1,1 +1,1 @@
-# MySQL-Workbench-Swing-App
+# MySQL Workbench database accessible through java swing app
